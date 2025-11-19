@@ -5,8 +5,8 @@ export const en = {
     projects: "Projects",
   },
   hero: {
-    title: "Backend Developer",
-    subtitle: "Building robust APIs & scalable systems",
+    title: "Backend/ Frontend Developer",
+    subtitle: "Creating robust APIs and scalable systems, combined with a modern and efficient UI/UX experience.",
   },
   about: {
     title: "About Me",
