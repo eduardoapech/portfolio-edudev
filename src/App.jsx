@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import styled, { ThemeProvider } from 'styled-components'
 import { GlobalStyle } from './styles/GlobalStyle'
 import { theme } from './styles/theme'
+import { LanguageProvider } from './contexts/LanguageContext'
 import Header from './components/organisms/Header'
 import Footer from './components/organisms/Footer'
 import HomePage from './templates/HomePage'
@@ -21,20 +22,22 @@ const Container = styled.div`
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <GlobalStyle />
-      <Router>
-        <Container>
-          <Header />
-          <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/about" element={<AboutPage />} />
-            <Route path="/projects" element={<ProjectsPage />} />
-          </Routes>
-          <Footer />
-        </Container>
-      </Router>
-    </ThemeProvider>
+    <LanguageProvider>
+      <ThemeProvider theme={theme}>
+        <GlobalStyle />
+        <Router>
+          <Container>
+            <Header />
+            <Routes>
+              <Route path="/" element={<HomePage />} />
+              <Route path="/about" element={<AboutPage />} />
+              <Route path="/projects" element={<ProjectsPage />} />
+            </Routes>
+            <Footer />
+          </Container>
+        </Router>
+      </ThemeProvider>
+    </LanguageProvider>
   )
 }
 

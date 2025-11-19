@@ -43,8 +43,9 @@ export const theme = {
   shadows: {
     sm: '0 0 10px #fff',
     md: '0 8px 20px rgba(0, 0, 0, 0.3)',
-    lg: '0 0 20px #fff',
+    lg: '0 0 20px #fff, 0 10px 30px rgba(0, 0, 0, 0.4)',
     xl: '0 0 40px 10px #ffffff1d',
+    glow: '0 0 15px rgba(0, 234, 255, 0.5)',
   },
 }
 

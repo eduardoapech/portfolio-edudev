@@ -16,6 +16,12 @@ export const StyledHeader = styled.header`
   animation-delay: 1s;
 `
 
+export const StyledHeaderActions = styled.div`
+  display: flex;
+  align-items: center;
+  gap: ${({ theme }) => theme.spacing.lg};
+`
+
 export const StyledNavbar = styled.nav`
   display: flex;
   gap: ${({ theme }) => theme.spacing.lg};
