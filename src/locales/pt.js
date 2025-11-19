@@ -11,13 +11,13 @@ export const pt = {
   about: {
     title: 'Sobre Mim',
     paragraph1:
-      'Olá! Sou <strong>Eduardo</strong>, Desenvolvedor Backend especializado em Java e Spring Boot. Desde 2022, tenho me dedicado a criar soluções robustas e escaláveis que resolvem problemas reais.',
+      'Olá! Sou <strong>Eduardo</strong>, Desenvolvedor Backend e Frontend estudante desde 2022, tenho me dedicado a criar soluções robustas e escaláveis que resolvem problemas reais.',
     paragraph2:
       'Minha paixão está em desenvolver <strong>APIs RESTful</strong> de alta performance, implementar <strong>autenticação segura</strong> com JWT e trabalhar com bancos de dados relacionais para criar sistemas eficientes e confiáveis.',
     paragraph3:
       'Estou sempre em busca de <strong>novas tecnologias</strong> e melhores práticas do mercado. Acredito que a tecnologia deve ser simples, eficiente e focada nas necessidades do usuário final.',
     paragraph4:
-      'Atualmente, foco em <strong>desenvolvimento backend</strong> com Spring Boot, Spring Security, PostgreSQL e implementação de boas práticas de arquitetura de software.',
+      'Atualmente, foco tanto em <strong>desenvolvimento backend como o Frontend</strong> com implementação de boas práticas de arquitetura de software.',
     paragraph5:
       '<strong>Estou aberto a novas oportunidades!</strong> Se você está procurando um desenvolvedor comprometido, proativo e apaixonado por código de qualidade, vamos conversar!',
     downloadCV: 'Download CV',

@@ -6,20 +6,21 @@ export const es = {
   },
   hero: {
     title: "Desarrollador Backend/ Frontend",
-    subtitle: "Creación de APIs robustas y sistemas escalables, junto con una experiencia de UI/UX moderna y eficiente.",
+    subtitle:
+      "Creación de APIs robustas y sistemas escalables, junto con una experiencia de UI/UX moderna y eficiente.",
   },
   about: {
     title: "Sobre Mí",
     paragraph1:
-      "¡Hola! Soy <strong>Eduardo</strong>, Desarrollador Backend especializado en Java y Spring Boot. Desde 2022, me he dedicado a crear soluciones robustas y escalables que resuelven problemas reales.",
+      "¡Hola! Soy <strong>Eduardo</strong>, Desarrollador Backend y Frontend en formación desde 2022, dedicado a crear soluciones robustas y escalables que resuelven problemas reales.",
     paragraph2:
       "Mi pasión está en desarrollar <strong>APIs RESTful</strong> de alto rendimiento, implementar <strong>autenticación segura</strong> con JWT y trabajar con bases de datos relacionales para crear sistemas eficientes y confiables.",
     paragraph3:
-      "Siempre estoy buscando <strong>nuevas tecnologías</strong> y mejores prácticas del mercado. Creo que la tecnología debe ser simple, eficiente y enfocada en las necesidades del usuario final.",
+      "Siempre estoy en busca de <strong>nuevas tecnologías</strong> y de las mejores prácticas del mercado. Creo que la tecnología debe ser simple, eficiente y centrada en las necesidades del usuario final.",
     paragraph4:
-      "Actualmente, me enfoco en <strong>desarrollo backend</strong> con Spring Boot, Spring Security, PostgreSQL e implementación de buenas prácticas de arquitectura de software.",
+      "Actualmente me enfoco tanto en el <strong>desarrollo backend como frontend</strong>, aplicando buenas prácticas de arquitectura de software.",
     paragraph5:
-      "¡<strong>Estoy abierto a nuevas oportunidades!</strong> Si buscas un desarrollador comprometido, proactivo y apasionado por código de calidad, ¡hablemos!",
+      "<strong>¡Estoy abierto a nuevas oportunidades!</strong> Si buscas un desarrollador comprometido, proactivo y apasionado por código de calidad, ¡hablemos!",
     downloadCV: "Descargar CV",
   },
   projects: {

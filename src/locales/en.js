@@ -6,20 +6,21 @@ export const en = {
   },
   hero: {
     title: "Backend/ Frontend Developer",
-    subtitle: "Creating robust APIs and scalable systems, combined with a modern and efficient UI/UX experience.",
+    subtitle:
+      "Creating robust APIs and scalable systems, combined with a modern and efficient UI/UX experience.",
   },
   about: {
     title: "About Me",
     paragraph1:
-      "Hello! I'm <strong>Eduardo</strong>, a Backend Developer specialized in Java and Spring Boot. Since 2022, I've been dedicated to creating robust and scalable solutions that solve real-world problems.",
+      "Hello! I’m <strong>Eduardo</strong>, a Backend and Frontend Developer studying since 2022, dedicated to creating robust and scalable solutions that solve real-world problems.",
     paragraph2:
-      "My passion lies in developing high-performance <strong>RESTful APIs</strong>, implementing <strong>secure authentication</strong> with JWT, and working with relational databases to build efficient and reliable systems.",
+      "My passion lies in developing high-performance <strong>RESTful APIs</strong>, implementing <strong>secure authentication</strong> with JWT, and working with relational databases to create efficient and reliable systems.",
     paragraph3:
-      "I'm always seeking <strong>new technologies</strong> and best practices. I believe technology should be simple, efficient, and focused on user needs.",
+      "I am always seeking <strong>new technologies</strong> and industry best practices. I believe technology should be simple, efficient, and focused on the end user’s needs.",
     paragraph4:
-      "Currently, I focus on <strong>backend development</strong> using Spring Boot, Spring Security, PostgreSQL, and software architecture best practices.",
+      "Currently, I focus on both <strong>backend and frontend development</strong>, applying software architecture best practices.",
     paragraph5:
-      "<strong>I'm open to new opportunities!</strong> If you're looking for a committed and proactive developer passionate about clean and high-quality code, let's talk!",
+      "<strong>I’m open to new opportunities!</strong> If you’re looking for a committed, proactive developer passionate about high-quality code, let’s connect!",
     downloadCV: "Download CV",
   },
   projects: {
