@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     min-height: 100vh;
-    background: url("/assets/background.jpg") no-repeat center / cover;
+    background: url("/public/assets/background.jpg") no-repeat center / cover;
     background-attachment: fixed;
     padding: ${theme.spacing.xl} 5%;
   }
