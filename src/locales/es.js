@@ -5,14 +5,14 @@ export const es = {
     projects: "Proyectos",
   },
   hero: {
-    title: "Desarrollador Backend/ Frontend",
+    title: "Desarrollador Full Stack",
     subtitle:
       "Creación de APIs robustas y sistemas escalables, junto con una experiencia de UI/UX moderna y eficiente.",
   },
   about: {
     title: "Sobre Mí",
     paragraph1:
-      "¡Hola! Soy <strong>Eduardo</strong>, Desarrollador Backend y Frontend en formación desde 2022, dedicado a crear soluciones robustas y escalables que resuelven problemas reales.",
+      "¡Hola! Soy <strong>Eduardo</strong>, Desarrollador Full Stack en formación desde 2022, dedicado a crear soluciones robustas y escalables que resuelven problemas reales.",
     paragraph2:
       "Mi pasión está en desarrollar <strong>APIs RESTful</strong> de alto rendimiento, implementar <strong>autenticación segura</strong> con JWT y trabajar con bases de datos relacionales para crear sistemas eficientes y confiables.",
     paragraph3:
