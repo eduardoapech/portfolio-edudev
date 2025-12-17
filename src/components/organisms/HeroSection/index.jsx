@@ -23,6 +23,8 @@ const HeroSection = () => {
 
   const technologies = [
     { title: 'Java', iconClass: 'ri-java-fill' },
+    { title: 'React', iconClass: 'ri-reactjs-line' },
+    { title: 'Node', iconClass: 'ri-nodejs-line' },
     { title: 'Spring Boot', iconClass: 'ri-leaf-fill' },
     { title: 'PostgreSQL', iconClass: 'ri-database-2-fill' },
     { title: 'REST API', iconClass: 'ri-code-s-slash-line' },
