@@ -5,13 +5,13 @@ export const pt = {
     projects: 'Projetos',
   },
   hero: {
-    title: 'Desenvolvedor Full Stack',
+    title: 'Desenvolvedor De Software',
     subtitle: 'Criação de APIs robustas e sistemas escaláveis, aliados a uma experiência UI/UX moderna e eficiente.',
   },
   about: {
     title: 'Sobre Mim',
     paragraph1:
-      'Olá! Sou <strong>Eduardo</strong>, Desenvolvedor Full Stack estudante desde 2022, tenho me dedicado a criar soluções robustas e escaláveis que resolvem problemas reais.',
+      'Olá! Sou <strong>Eduardo</strong>, Desenvolvedor de Software estudante desde 2022, tenho me dedicado a criar soluções robustas e escaláveis que resolvem problemas reais.',
     paragraph2:
       'Minha paixão está em desenvolver <strong>APIs RESTful</strong> de alta performance, implementar <strong>autenticação segura</strong> com JWT e trabalhar com bancos de dados relacionais para criar sistemas eficientes e confiáveis.',
     paragraph3:
